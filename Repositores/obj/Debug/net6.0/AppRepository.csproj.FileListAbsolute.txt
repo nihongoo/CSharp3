@@ -1,0 +1,12 @@
+D:\Summer_2023\NET103\CSharp3\AppRepositores\bin\Debug\net6.0\AppRepository.deps.json
+D:\Summer_2023\NET103\CSharp3\AppRepositores\bin\Debug\net6.0\AppRepository.dll
+D:\Summer_2023\NET103\CSharp3\AppRepositores\bin\Debug\net6.0\AppRepository.pdb
+D:\Summer_2023\NET103\CSharp3\AppRepositores\obj\Debug\net6.0\AppRepository.csproj.AssemblyReference.cache
+D:\Summer_2023\NET103\CSharp3\AppRepositores\obj\Debug\net6.0\AppRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Summer_2023\NET103\CSharp3\AppRepositores\obj\Debug\net6.0\AppRepository.AssemblyInfoInputs.cache
+D:\Summer_2023\NET103\CSharp3\AppRepositores\obj\Debug\net6.0\AppRepository.AssemblyInfo.cs
+D:\Summer_2023\NET103\CSharp3\AppRepositores\obj\Debug\net6.0\AppRepository.csproj.CoreCompileInputs.cache
+D:\Summer_2023\NET103\CSharp3\AppRepositores\obj\Debug\net6.0\AppRepository.dll
+D:\Summer_2023\NET103\CSharp3\AppRepositores\obj\Debug\net6.0\refint\AppRepository.dll
+D:\Summer_2023\NET103\CSharp3\AppRepositores\obj\Debug\net6.0\AppRepository.pdb
+D:\Summer_2023\NET103\CSharp3\AppRepositores\obj\Debug\net6.0\ref\AppRepository.dll

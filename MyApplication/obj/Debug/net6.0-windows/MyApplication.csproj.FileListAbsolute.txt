@@ -1,0 +1,124 @@
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\MyApplication.exe
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\MyApplication.deps.json
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\MyApplication.runtimeconfig.json
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\MyApplication.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\MyApplication.pdb
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\AppDbContext.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Models.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Repositories.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Services.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Services.pdb
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\AppDbContext.pdb
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Models.pdb
+D:\Summer_2023\NET103\CSharp3\MyApplication\bin\Debug\net6.0-windows\Repositories.pdb
+D:\Summer_2023\NET103\CSharp3\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.AssemblyReference.cache
+D:\Summer_2023\NET103\CSharp3\MyApplication\obj\Debug\net6.0-windows\MyApplication.FQuanlyTS.resources
+D:\Summer_2023\NET103\CSharp3\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.GenerateResource.cache
+D:\Summer_2023\NET103\CSharp3\MyApplication\obj\Debug\net6.0-windows\MyApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Summer_2023\NET103\CSharp3\MyApplication\obj\Debug\net6.0-windows\MyApplication.AssemblyInfoInputs.cache
+D:\Summer_2023\NET103\CSharp3\MyApplication\obj\Debug\net6.0-windows\MyApplication.AssemblyInfo.cs
+D:\Summer_2023\NET103\CSharp3\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.CoreCompileInputs.cache
+D:\Summer_2023\NET103\CSharp3\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.CopyComplete
+D:\Summer_2023\NET103\CSharp3\MyApplication\obj\Debug\net6.0-windows\MyApplication.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\obj\Debug\net6.0-windows\refint\MyApplication.dll
+D:\Summer_2023\NET103\CSharp3\MyApplication\obj\Debug\net6.0-windows\MyApplication.pdb
+D:\Summer_2023\NET103\CSharp3\MyApplication\obj\Debug\net6.0-windows\MyApplication.genruntimeconfig.cache
+D:\Summer_2023\NET103\CSharp3\MyApplication\obj\Debug\net6.0-windows\ref\MyApplication.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\MyApplication.exe
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\MyApplication.deps.json
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\MyApplication.runtimeconfig.json
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\MyApplication.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\MyApplication.pdb
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\AppDbContext.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Models.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Repositories.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Services.dll
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Services.pdb
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\AppDbContext.pdb
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Models.pdb
+E:\xi sap 3\CSharp3\MyApplication\bin\Debug\net6.0-windows\Repositories.pdb
+E:\xi sap 3\CSharp3\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.AssemblyReference.cache
+E:\xi sap 3\CSharp3\MyApplication\obj\Debug\net6.0-windows\MyApplication.FQuanlyTS.resources
+E:\xi sap 3\CSharp3\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.GenerateResource.cache
+E:\xi sap 3\CSharp3\MyApplication\obj\Debug\net6.0-windows\MyApplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\xi sap 3\CSharp3\MyApplication\obj\Debug\net6.0-windows\MyApplication.AssemblyInfoInputs.cache
+E:\xi sap 3\CSharp3\MyApplication\obj\Debug\net6.0-windows\MyApplication.AssemblyInfo.cs
+E:\xi sap 3\CSharp3\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.CoreCompileInputs.cache
+E:\xi sap 3\CSharp3\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.CopyComplete
+E:\xi sap 3\CSharp3\MyApplication\obj\Debug\net6.0-windows\MyApplication.dll
+E:\xi sap 3\CSharp3\MyApplication\obj\Debug\net6.0-windows\refint\MyApplication.dll
+E:\xi sap 3\CSharp3\MyApplication\obj\Debug\net6.0-windows\MyApplication.pdb
+E:\xi sap 3\CSharp3\MyApplication\obj\Debug\net6.0-windows\MyApplication.genruntimeconfig.cache
+E:\xi sap 3\CSharp3\MyApplication\obj\Debug\net6.0-windows\ref\MyApplication.dll
