@@ -280,7 +280,7 @@ namespace MyApplication
         private void HienThi()
         {
             dataGridView.DataSource = lstTaiSan;
-            dataGridView.Columns[0].HeaderText = "Mã tài sản";
+            dataGridView.Columns[0].HeaderText = "mã tài sản";
             dataGridView.Columns[1].HeaderText = "Tên tài sản";
             dataGridView.Columns[2].HeaderText = "Ngày mua";
             dataGridView.Columns[3].HeaderText = "Giá mua";
