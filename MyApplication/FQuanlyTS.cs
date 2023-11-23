@@ -27,7 +27,7 @@ namespace MyApplication
             lstLoaiTaiSan = ServiceLoaiTaiSan.GetAll();
             cmbLoaiTaiSan.DataSource = lstLoaiTaiSan;
             cmbLoaiTaiSan.DisplayMember = "TenLoaiTS";
-            cmbLoaiTaiSan.ValueMember = "maLoaiTS";
+            cmbLoaiTaiSan.ValueMember = "MaLoaiTS";
         }
         /// <summary>
         /// Xử lý sự kiện click lên combo box
